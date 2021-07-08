@@ -1,0 +1,23 @@
+body {
+    background-color: #82B1FF;
+}
+.table {
+    width: 70%;
+    left: 200px;
+    position: absolute;
+    top: 200px;
+    border: solid 3px #222;
+}
+.dropdown {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+.form-inline {
+    position: absolute;
+    top: 150px;
+    left: 500px;
+}
+.cliente-nao {
+    text-align: center;
+}

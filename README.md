@@ -14,3 +14,6 @@ Desafio de estrutura de dados com JavaScript
 
 # Projeto
 
+![app-desafio-01.PNG](https://github.com/Danilo55Amaral/Desafio-Amigo-estrutura-de-dados/blob/main/app-desafio-01.PNG)
+![app-desafio-02.PNG](https://github.com/Danilo55Amaral/Desafio-Amigo-estrutura-de-dados/blob/main/app-desafio-02.PNG)
+![app-desafio-03.PNG](https://github.com/Danilo55Amaral/Desafio-Amigo-estrutura-de-dados/blob/main/app-desafio-03.PNG)
